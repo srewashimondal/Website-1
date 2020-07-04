@@ -14,13 +14,14 @@ You can use the website (https://www.python.org/about/gettingstarted/) to get be
 
 ```markdown
 
-## **Here are three steps to write a _simple_ code in Python:**
+**Here are three steps to write a _simple_ code in Python:**
 1. Open your Start menu and choose Python (command line). You should get a prompt that looks like >>>. ...
 2. At the prompt, type the following. Use a single quote at the start and the end — it's beside the Enter key: ...
 3. Press the Enter key. Python runs the code you typed.
 
-Coding may seem difficult at first, but it quiet easy. It is all about taking your time, playing around with the functions, and just learning through your experience! Before you know it, you will be coding away in no time :)
-[https://sjpl.bibliocommons.com/events/uploads/images/full/1ff34fde29e4b80c5bb7357bdaf38c1e/Python%20Image.jpg]
+Coding may seem difficult at first, but it quiet easy. It is all about taking your time, playing around with the functions, and just learning through your experience! 
+Before you know it, you will be coding away in no time :)
+
 ```
 
 ## Want to see some examples of Real Python Coding Examples? 
@@ -28,6 +29,7 @@ This link (https://skillcrush.com/blog/python-programming-examples/) may be very
 
 ## Are there any video that can help to learn Python? 
 Some people, including me, learn better when watching videos. It helps seeing a visual demonstration of the steps as they take place as instructions are provided. If you feel like you want to learn Python by watching videos, you're in luck!
+
 This (https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) is a whole playlist of videos that can help you improve your coding skills in Python.
 
 ### Support or Contact
