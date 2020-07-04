@@ -28,7 +28,7 @@ Before you know it, you will be coding away in no time :)
 ## Want to see some examples of Real Python Coding Examples? 
 This link (https://skillcrush.com/blog/python-programming-examples/) may be very helpful to see how others coded through Python.
 
-## Are there any video that can help to learn Python? 
+## Are there any videos that can help to learn Python? 
 Some people, including me, learn better when watching videos. It helps seeing a visual demonstration of the steps as they take place as instructions are provided. If you feel like you want to learn Python by watching videos, you're in luck!
 
 This (https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) is a whole playlist of videos that can help you improve your coding skills in Python.
