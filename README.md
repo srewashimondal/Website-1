@@ -20,8 +20,9 @@ Here are three steps to write a simple code in Python:
 2. At the prompt, type the following. Use a single quote at the start and the end — it's beside the Enter key: ...
 3. Press the Enter key. Python runs the code you typed.
 
-Coding may seem difficult at first, but it quiet easy. It is all about taking your time, playing around with the functions, and just learning through your experience! 
-Before you know it, you will be coding away in no time :)
+- Coding may seem difficult at first, but it quiet easy. 
+- It is all about taking your time, playing around with the functions, and just learning through your experience! 
+- Before you know it, you will be coding away in no time :)
 
 ```
 
