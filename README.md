@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages (Coding)
+## Welcome to Coding with Python!
 
-You can use the [editor on GitHub](https://github.com/srewashimondal/Website-1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hello everyone! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am Srewashi Mondal, a rising junior in BTHS Software Major.
+
+Python is a coding website that is very easy to learn. Python offers excellent readability and uncluttered simple-to-learn syntax which helps beginners to utilize this programming language.
+
+You can use the website (https://www.python.org/about/gettingstarted/) to get beginner tips and guidelines on how to use Python.
 
 ### Markdown
 
@@ -17,9 +21,10 @@ Syntax highlighted code block
 
 - Bulleted
 - List
-
-1. Numbered
-2. List
+**Bold** Here are three steps to write a simple code in Python:
+1. Open your Start menu and choose Python (command line). You should get a prompt that looks like >>>. ...
+2. At the prompt, type the following. Use a single quote at the start and the end — it's beside the Enter key: ...
+3. Press the Enter key. Python runs the code you typed.
 
 **Bold** and _Italic_ and `Code` text
 
