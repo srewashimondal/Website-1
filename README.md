@@ -1,4 +1,4 @@
-## Welcome to Coding with Python!
+# Welcome to Coding with Python!
 
 Hello everyone! 
 
@@ -17,7 +17,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-# **Here are three steps to write a _simple_ code in Python:**
+## **Here are three steps to write a _simple_ code in Python:**
 1. Open your Start menu and choose Python (command line). You should get a prompt that looks like >>>. ...
 2. At the prompt, type the following. Use a single quote at the start and the end — it's beside the Enter key: ...
 3. Press the Enter key. Python runs the code you typed.
@@ -25,10 +25,10 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-# Want to see some examples of Real Python Coding Examples? 
+## Want to see some examples of Real Python Coding Examples? 
 This link (https://skillcrush.com/blog/python-programming-examples/) may be very helpful to see how others coded through Python.
 
-# Are there any video that can help to learn Python? 
+## Are there any video that can help to learn Python? 
 Some people, including me, learn better when watching videos. It helps seeing a visual demonstration of the steps as they take place as instructions are provided. If you feel like you want to learn Python by watching videos, you're in luck!
 This (https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) is a whole playlist of videos that can help you improve your coding skills in Python.
 
