@@ -4,25 +4,23 @@ Hello everyone!
 
 I am Srewashi Mondal, a rising junior in BTHS Software Major.
 
-Are you inetersted in coding and computers? In computers, coding is done so that the system can understand what is expected for it to be done. The benefits of learning coding are many and the most beneficial ones. Coding helps you build applications, put them over servers and use so that multiple users can use it and get the benefits.
+Are you interested in coding and computers? 
 
-Python is a coding website that is very easy to learn. Python offers excellent readability and uncluttered simple-to-learn syntax which helps beginners to utilize this programming language.
+In computers, coding is done so that the system can understand what is expected for it to be done. The benefits of learning coding are many and the most beneficial ones. Coding helps you build applications, put them over servers and use so that multiple users can use it and get the benefits.
+
+**Python** is a coding website that is very easy to learn. Python offers excellent readability and uncluttered simple-to-learn syntax which helps beginners to utilize this programming language.
 
 You can use the website (https://www.python.org/about/gettingstarted/) to get beginner tips and guidelines on how to use Python.
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 ## **Here are three steps to write a _simple_ code in Python:**
 1. Open your Start menu and choose Python (command line). You should get a prompt that looks like >>>. ...
 2. At the prompt, type the following. Use a single quote at the start and the end — it's beside the Enter key: ...
 3. Press the Enter key. Python runs the code you typed.
 
-[Link](url) and ![Image](src)
+Coding may seem difficult at first, but it quiet easy. It is all about taking your time, playing around with the functions, and just learning through your experience! Before you know it, you will be coding away in no time :)
+[https://sjpl.bibliocommons.com/events/uploads/images/full/1ff34fde29e4b80c5bb7357bdaf38c1e/Python%20Image.jpg]
 ```
 
 ## Want to see some examples of Real Python Coding Examples? 
