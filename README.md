@@ -14,7 +14,7 @@ You can use the website (https://www.python.org/about/gettingstarted/) to get be
 
 ```markdown
 
-**Here are three steps to write a _simple_ code in Python:**
+**Here are three steps to write a simple code in Python:**
 1. Open your Start menu and choose Python (command line). You should get a prompt that looks like >>>. ...
 2. At the prompt, type the following. Use a single quote at the start and the end — it's beside the Enter key: ...
 3. Press the Enter key. Python runs the code you typed.
